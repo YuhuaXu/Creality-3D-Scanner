@@ -10,4 +10,4 @@
 Some known issues:
 1. Computer AMD7800 and Raptor Pro Blue Laser mode is not supported for scanning；
 2. Automatic firmware upgrade is not supported;
-3. During the calibration process, more than 90 CPU will be occupied.
+3. During the calibration process, more than 90% CPU will be occupied.
